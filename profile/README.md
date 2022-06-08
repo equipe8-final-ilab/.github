@@ -4,6 +4,18 @@
 
 O sistema consiste de um front end, três APIs para gestão dos recursos (administradores, usuários e pedidos), e uma estação de mensageria encarregada de notificar a conclusão do pedido aos clientes.
 
+Repositório do Front-end, clique aqui: https://github.com/equipe8-final-ilab/frontend-e8
+
+Repositório da API de administradores: https://github.com/equipe8-final-ilab/api-administrador-e8
+
+Repositório da API de usuários: https://github.com/equipe8-final-ilab/api-usuarios-e8
+
+Repositório da API de pedidos: https://github.com/equipe8-final-ilab/api-pedidos-e8
+
+Repositório do SQS-SES-Consumer: https://github.com/equipe8-final-ilab/ses-sqs-consumer
+
+Link do Jira: https://grupo8ilab.atlassian.net/jira/software/projects/G8ILAB/boards/2/roadmap 
+
 ## Variáveis de Ambiente
 
 ## Instalação
